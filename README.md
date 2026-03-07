@@ -17,36 +17,59 @@ Passionate about building scalable systems, automating infrastructure, and desig
 
 ---
 
-## 🛠 Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
-`Go` `Python` `Java` `Bash`
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=go\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
 
 ### DevOps & Cloud
 
-`Docker` `Kubernetes` `Terraform` `GitHub Actions` `CI/CD`
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge\&logo=terraform\&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=github-actions\&logoColor=white)
 
 ### Messaging & Data
 
-`Kafka` `NATS` `Redis`
+![Kafka](https://img.shields.io/badge/Kafka-000000?style=for-the-badge\&logo=apachekafka)
+![NATS](https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge\&logo=natsdotio\&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-D82C20?style=for-the-badge\&logo=redis\&logoColor=white)
 
 ### Frameworks
 
-`Flask` `Spring Boot`
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot)
 
 ---
-## 📊 GitHub Stats
+
+# 📊 GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Priyanshu-1729&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
   <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Priyanshu-1729&layout=compact&theme=tokyonight"/>
 </p>
 
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=Priyanshu-1729&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Connect With Me
+# 📈 Activity Graph
+
+![Priyanshu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-1729\&theme=tokyo-night)
+
+---
+
+# 📫 Connect With Me
 
 * 💼 LinkedIn
 * 📧 Email
