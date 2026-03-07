@@ -37,24 +37,6 @@ Passionate about building scalable systems, automating infrastructure, and desig
 
 ---
 
-## 📂 Featured Projects
-
-### 🔹 Face Match AI
-
-A face recognition system that compares an input image with known faces and returns similarity scores.
-
-**Tech:** Python • Flask • Docker • Kubernetes
-
----
-
-### 🔹 Kubernetes CI/CD Controller
-
-A custom Kubernetes controller that automates CI/CD workflows using GitOps principles.
-
-**Tech:** Go • Kubernetes Controller Runtime • GitOps
-
----
-
 ## 📊 GitHub Stats
 
 <p align="center">
