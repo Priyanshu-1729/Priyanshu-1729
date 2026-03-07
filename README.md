@@ -40,12 +40,13 @@ Passionate about building scalable systems, automating infrastructure, and desig
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-1729&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Priyanshu-1729&show_icons=true&theme=tokyonight&cache_seconds=86400" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-1729&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Priyanshu-1729&layout=compact&theme=tokyonight&cache_seconds=86400" />
 </p>
+
 
 ---
 
