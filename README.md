@@ -45,6 +45,7 @@ Passionate about building scalable systems, automating infrastructure, and desig
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot)
 
 ---
+---
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -57,6 +58,11 @@ Passionate about building scalable systems, automating infrastructure, and desig
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priyanshu-1729&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Priyanshu-1729&theme=tokyonight" />
 </p>
+
+### Recent Contributions
+
+<!-- CONTRIBUTIONS:START -->
+<!-- CONTRIBUTIONS:END -->
 
 ---
 
