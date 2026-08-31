@@ -81,16 +81,6 @@ Passionate about building scalable systems, automating infrastructure, and desig
 
 ---
 
-# 📈 Activity Graph
-
-![Priyanshu's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyanshu-1729\&theme=tokyo-night)
-
----
-
----
-
----
-
 # 📫 Connect With Me
 
 <p align="center">
