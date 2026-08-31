@@ -45,12 +45,17 @@ Passionate about building scalable systems, automating infrastructure, and desig
 ![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge\&logo=springboot)
 
 ---
-
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Priyanshu-1729&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true"/>
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Priyanshu-1729&layout=compact&theme=tokyonight"/>
+  <a href="https://github.com/Priyanshu-1729">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Priyanshu-1729&theme=tokyonight" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Priyanshu-1729&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Priyanshu-1729&theme=tokyonight" />
 </p>
 
 ---
