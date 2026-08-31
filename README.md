@@ -62,6 +62,13 @@ Passionate about building scalable systems, automating infrastructure, and desig
 ### Recent Contributions
 
 <!-- CONTRIBUTIONS:START -->
+
+### 🌍 Selected Contributions
+
+- **[Podiom/Podiom](https://github.com/Podiom/Podiom)** — [test(core): cover dream helper functions](https://github.com/Podiom/Podiom/pull/125) · ✅ Merged
+
+- **[grafana/grafana-pathfinder-app](https://github.com/grafana/grafana-pathfinder-app)** — [test(custom-guides): verify valid sibling composites survive malformed fields](https://github.com/grafana/grafana-pathfinder-app/pull/1732) · ✅ Merged
+
 <!-- CONTRIBUTIONS:END -->
 
 ---
