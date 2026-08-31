@@ -87,11 +87,21 @@ Passionate about building scalable systems, automating infrastructure, and desig
 
 ---
 
+---
+
+---
+
 # 📫 Connect With Me
 
-* 💼 LinkedIn
-* 📧 Email
-* 🌐 Portfolio (Coming soon)
+<p align="center">
+  <a href="https://www.linkedin.com/in/priyanshu-kumar-6350221ba/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:priyanshuroy500@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-181717?style=for-the-badge&logo=vercel&logoColor=white" />
+</p>
 
 ---
 
